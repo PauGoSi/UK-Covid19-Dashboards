@@ -18,4 +18,4 @@ install.packages("jsonlite")
 install.packages("httr")
 ```
 ### Author
-Pau Go Si (paugosi@hotmail.com)
+- Pau Go Si (paugosi@hotmail.com)
