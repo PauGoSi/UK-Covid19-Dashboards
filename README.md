@@ -16,3 +16,6 @@ install.packages("highcharter")
 install.packages("dplyr")
 install.packages("jsonlite")
 install.packages("httr")
+```
+### Author
+Pau Go Si (paugosi@hotmail.com)
